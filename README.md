@@ -23,7 +23,7 @@ The Contact List App is a simple web application built with React that allows us
 
 You can try out the Contact List App online [Here](https://contact-list-ten-gamma.vercel.app/)
 ## hosted link
-https://celebrated-kataifi-bc4bbb.netlify.app/
+https://contact-list-ten-gamma.vercel.app/
 
 
 # Getting Started with Create React App
